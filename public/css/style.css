@@ -1,0 +1,15 @@
+.bg-warung { background-color: #8faf7e; }
+
+body.bg-light { background-color: #f7f3e9 !important; }
+
+.badge-sage { background-color: #4a6741; color: #fff; }
+
+.btn-sage { background-color: #4a6741; border-color: #4a6741; color: #fff; }
+.btn-sage:hover { background-color: #3b5434; border-color: #3b5434; color: #fff; }
+
+.card-img-menu {
+    height: 200px;
+    object-fit: contain;
+    background-color: #fff;
+    padding: 8px;
+}
